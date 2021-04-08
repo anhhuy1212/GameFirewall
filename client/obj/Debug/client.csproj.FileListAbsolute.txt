@@ -1,0 +1,49 @@
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\client.exe.config
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\client.exe
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\client.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\Guna.UI2.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.UCAnswerBox.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.exe
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.UCQuestion.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.Playgame.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\obj\Debug\client.MenuGame.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\DTOProject.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\MyLib.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\DTOProject.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\client\bin\Debug\MyLib.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\client.exe.config
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\client.exe
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\client.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\DTOProject.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\Guna.UI2.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\MyLib.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\DTOProject.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\MyLib.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.Playgame.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.MenuGame.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.UCAnswerBox.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.UCQuestion.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.exe
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.Personal.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.Tutorial.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\Sever.exe
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\CircularProgressBar.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\WinFormAnimation.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\CircularProgressBar.xml
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\Sever.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\bin\Debug\Sever.exe.config
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\Interop.WMPLib.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\client\obj\Debug\client.csproj.ResolveComReference.cache

@@ -1,0 +1,20 @@
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\bin\Debug\MyLib.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\bin\Debug\MyLib.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\bin\Debug\DTOProject.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\bin\Debug\DTOProject.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\obj\Debug\MyLib.csproj.CopyComplete
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\obj\Debug\MyLib.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\obj\Debug\MyLib.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\MyLib\bin\Debug\Guna.UI2.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\bin\Debug\MyLib.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\bin\Debug\MyLib.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\bin\Debug\DTOProject.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\bin\Debug\Guna.UI2.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\bin\Debug\DTOProject.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\obj\Debug\MyLib.csproj.CopyComplete
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\obj\Debug\MyLib.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\MyLib\obj\Debug\MyLib.pdb

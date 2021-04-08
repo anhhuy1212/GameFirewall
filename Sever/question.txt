@@ -1,0 +1,88 @@
+!01
+@Xã nào đông dân nhất?
+&Xã Hội
+&Xã Giao
+&Xã Củ Chỉ
+&Xã Tân An
+#Xã Hội
+$Xã đông dân nhất là xã hội vì xã hội là bao gồm tất cả mọi người trên thế giới.
+!02
+@Ai cũng biết đỉnh núi Everest cao nhất thế giới, vậy trước khi đỉnh Everest được khám phá, thì đỉnh núi nào là cao nhất thế giới?
+&PhanXiPan
+&Everest
+&Ever
+&rest
+#Everest
+$Everest vì đỉnh núi không thay đổi trước khi con người khám phá.
+!03
+@Không phải là gà trống cũng không phải là gà mái nhưng người ta vẫn gọi là gà. Tại Sao ?
+&con  Gà
+&Gà con
+&Gà
+&Con
+#Gà con
+$Vì gà con người ta vẫn có thể gọi là gà. Con gà có thể là gà trống hoặc gà mái.
+!04
+@Con trai có gì quý nhất?
+&Ngọc Trai
+&Của Quý
+&Ngọc
+&Trai
+#Ngọc Trai
+$Vì ngọc trai la thứ được kết tinh trong con Trai ( Sông hoặc Biển).
+!05
+@Cái gì mà tay trái cầm được nhưng tay phải cầm không được?
+&Tay Phải
+&Tay Trái
+&Tay 
+&Phải
+#Tay Phải
+$Vì Tay Phải không thể cầm được chính nó.
+!06
+@Loại nước giải khát nào chứa sắt và canxi?
+&Melon
+&Coffee
+&Cam
+&Milo
+#Coffee
+$Trong coffee có chứa sắt và canxi
+!07
+@Khi Beckham thực hiện quả đá PENALTY, anh ta sẽ sút vào đâu?
+&Chân
+&Khung Thành
+&Trái Bóng
+&Thủ Môn
+#Trái Bóng
+$Trái Bóng sẽ tiếp chân anh ta trước.
+!08
+@Cái gì mà đi thì nằm, đứng cũng nằm, nhưng khi nằm lại đứng?
+&Cái Quần
+&Cái bàn tọa
+&Cái bàn chân
+&Cái Áo
+#Cái bàn chân
+$Bàn chân sẽ nằm nếu bạn đứng và ngược lại.
+!09
+@Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?
+&2
+&3
+&0
+&1
+#2
+$Hai quả vì bạn đã lấy 2 quả.
+!10
+@Tháng nào ngắn nhất trong năm?
+&Tháng ba
+&Tháng một
+&Tháng hai
+&Tháng năm
+#Tháng ba
+$Tháng ba và tháng tư có số từ ít nhất trong 12 tháng.
+!11
+@Con gì đập thì sống, mà không đập thì chết?
+&Con muỗi
+&Con người
+&Con tàu
+&Con tim
+#Con tim
+$Bạn không thể sống nếu tim bị ngừmg đập.

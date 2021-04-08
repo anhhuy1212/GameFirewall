@@ -1,0 +1,26 @@
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\bin\Debug\DTOProject.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\bin\Debug\DTOProject.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\bin\Debug\Guna.UI2.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.QuestionBox.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.csproj.CopyComplete
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.numberPeopleWacthing.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\DTOProject\obj\Debug\DTOProject.Properties.Resources.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\bin\Debug\DTOProject.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\bin\Debug\DTOProject.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\bin\Debug\Guna.UI2.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.numberPeopleWacthing.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.Properties.Resources.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.QuestionBox.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.csproj.GenerateResource.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.csproj.CoreCompileInputs.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.csproj.CopyComplete
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.UcProfile.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\bin\Debug\Guna.UI.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\DTOProject\obj\Debug\DTOProject.csprojAssemblyReference.cache

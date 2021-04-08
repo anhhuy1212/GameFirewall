@@ -1,0 +1,45 @@
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\Sever.exe.config
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\Sever.exe
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\Sever.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\Guna.UI2.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.QuestionManagement.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.Properties.Resources.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.UCAnswerBox.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.csproj.CopyComplete
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.exe
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\DTOProject.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\DTOProject.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.ScheduleManagement.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\MyLib.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\MyLib.pdb
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.MC_UI.resources
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HOME\OneDrive\Máy tính\GameShow\Sever\obj\Debug\Sever.Host.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\Sever.exe.config
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\Sever.exe
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\Sever.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\DTOProject.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\Guna.UI2.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\MyLib.dll
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\DTOProject.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\bin\Debug\MyLib.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.csprojAssemblyReference.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.Host.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.Properties.Resources.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.UCAnswerBox.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.csproj.CopyComplete
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.exe
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.pdb
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.MC_HL.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.QuanLyCauHoi.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.QuanLyLichTrinh.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.UcNext.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.UcRev.resources
+C:\Users\hauzi\OneDrive\Documents\A_Học_Tập\Học Trên Lơp\LT_Windows\Lý_Thuyết\Cuối Kì\GameShow\Sever\obj\Debug\Sever.WinGame.resources

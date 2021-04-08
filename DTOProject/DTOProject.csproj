@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0FB6ED45-D36D-45EC-A85B-AA5BE12B115E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DTOProject</RootNamespace>
+    <AssemblyName>DTOProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\Guna\Guna.UI.WinForms_v1.0.0.9\.net 2.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DTO\Cons.cs" />
+    <Compile Include="DTO\GameShow.cs" />
+    <Compile Include="DTO\Player.cs" />
+    <Compile Include="DTO\Point_Player.cs" />
+    <Compile Include="DTO\Question.cs" />
+    <Compile Include="DTO\Question_Client.cs" />
+    <Compile Include="DTO\Statistics_Results.cs" />
+    <Compile Include="numberPeopleWacthing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="numberPeopleWacthing.Designer.cs">
+      <DependentUpon>numberPeopleWacthing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QuestionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuestionBox.Designer.cs">
+      <DependentUpon>QuestionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcProfile.Designer.cs">
+      <DependentUpon>UcProfile.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="numberPeopleWacthing.resx">
+      <DependentUpon>numberPeopleWacthing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestionBox.resx">
+      <DependentUpon>QuestionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcProfile.resx">
+      <DependentUpon>UcProfile.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visible_32px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
